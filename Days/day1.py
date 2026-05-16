@@ -4,4 +4,7 @@ date = "2026-05-15"
 
 print(f"My name is {name}.")
 print(f"My favorite quote is: '{quote}'")
-print(f"Today's date is: {date}")
+print(f"Today's date is: {date}") 
+
+Greeting = "Welcome to Day 1 of this Journey!"
+print(Greeting)
